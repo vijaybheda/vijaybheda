@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaybheda/)](https://www.linkedin.com/in/vijaybheda/)
 
-I am a Flutter App Developer, graduated from Marwadi University and currently live in Surat, Gujarat. I am a passionate student who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
+I am a Flutter App Developer, graduated from Marwadi University and currently live in Surat, Gujarat. I am a passionate who is always willing to learn and to work through the use of technologies. I really love the power that technology has in solving real-life problems. 
 
-##### I also usually learn and guide people who are just starting out in the programming world. I am currently working for Android and iOS Mobile App Development. 
+##### I also usually learn and guide people who are just starting out in the programming world. I am currently working as Flutter App Developer for Android and iOS Mobile App's. 
 
 
 ### Some personal things about me:
